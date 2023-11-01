@@ -1,0 +1,117 @@
+.header-name{
+    text-align: left;
+}
+#sorun-iletme {
+    
+    position: relative;
+
+}
+#sorun-iletme h4{
+    color: #dc8046f1;
+    margin: 0;
+    background-color: rgba(250, 218, 178, 0.895); /* Arkaplan rengi */
+    
+    padding: 15px 40px;
+    border-top-left-radius: 138px;
+    border-top-right-radius: 139px;
+    border-bottom-left-radius: 96px;
+    border-bottom-right-radius: 119px;
+    margin-bottom: 46px;
+    
+}
+.container{
+    background-color: bisque;
+    height: 100%;
+}
+#sorun-text {
+    width: 100%;
+    margin-right: 10px;
+}
+.ust-kisim
+{
+    background-color: bisque;
+}
+.navbar{
+    background-color: bisque;
+
+}
+
+
+#menu {
+    padding: 10px 20px; /* Aralık ayarları (üst ve alt 10px, sol ve sağ 20px) */
+    background-color: bisque; /* Arkaplan rengi */
+    color: #dc8046f1; /* Metin rengi */
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px; /* Köşe yuvarlama */
+}
+
+#menu a {
+    color: #fff; /* Bağlantı metni rengi */
+    text-decoration: none; /* Bağlantı alt çizgi kaldırma */
+    margin: 0 10px; /* Bağlantılar arası aralık */
+    background-color: rgba(250, 218, 178, 0.895);  /* Arkaplan rengi */
+    color: #dc8046f1;
+    padding: 10px 130px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    font-weight: bold;
+}
+
+#menu a:hover {
+    text-decoration: underline; /* Fare üzerine gelindiğinde bağlantı alt çizgi ekler */
+}
+.main{
+    background-color: bisque;
+}
+#footer{
+    background-color: bisque;
+}
+#footer p{
+    color: #a66b1fc5;
+    
+}
+#buton{
+    -webkit-transition: all 0s ease-out;
+    -moz-transition: all 0s ease-out;
+    -o-transition: all 0s ease-out;
+    -ms-transition: all 0s ease-out;
+    transition: all 0s ease-out;
+    height: 35px;
+    display: block;
+    font-family: Arial, "Helvetica", sans-serif;
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    text-shadow: 0px -1px 0px rgba(0,0,0,0.4);
+    padding: 4px 20px 0;
+    margin: 44px auto;
+    left: 10px;
+    position: relative;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    border-radius: 5px;
+    border: solid 1px #dc8046f1;
+    background: #dc8046f1;
+    -webkit-box-shadow: 0px 5px 0px 0px #dc8046f1;
+    box-shadow: 0px 5px 0px 0px #dc8046f1;
+}
+#buton:active {
+    top: 3px;
+    -webkit-box-shadow: 0px 2px 0px 0px #dc8046f1;
+    box-shadow: 0px 2px 0px 0px #dc8046f1;
+}
+#kolon{
+    background-color: red;
+
+}
+
+
+
+
+
