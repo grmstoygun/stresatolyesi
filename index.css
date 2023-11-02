@@ -38,6 +38,7 @@
 
 
 #menu {
+    
     padding: 10px 20px; /* Aralık ayarları (üst ve alt 10px, sol ve sağ 20px) */
     background-color: bisque; /* Arkaplan rengi */
     color: #dc8046f1; /* Metin rengi */
@@ -50,10 +51,10 @@
 #menu a {
     color: #fff; /* Bağlantı metni rengi */
     text-decoration: none; /* Bağlantı alt çizgi kaldırma */
-    margin: 0 10px; /* Bağlantılar arası aralık */
+    margin: 42px 10px; /* Bağlantılar arası aralık */
     background-color: rgba(250, 218, 178, 0.895);  /* Arkaplan rengi */
     color: #dc8046f1;
-    padding: 10px 130px;
+    padding: 1px 63px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     border-bottom-left-radius: 15px;
