@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = ''
+openai.api_key = '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'
 
 def communicate(user_message):
     instructions = []
