@@ -107,12 +107,13 @@
     -webkit-box-shadow: 0px 2px 0px 0px #dc8046f1;
     box-shadow: 0px 2px 0px 0px #dc8046f1;
 }
-#kolon{
-    background-color: red;
 
+.alert {
+    padding: 20px;
+    margin: 5px;
+    color: #970020;
+    background-color: #dc8046f1;
 }
-
-
 
 
 
